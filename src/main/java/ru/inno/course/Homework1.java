@@ -15,17 +15,17 @@ public class Homework1 {
 
         System.out.println("substring Проверяем возвращение буквы заданого индекса слова waRzone");
         String r = "warzone";
-        String result2 = r.substring(2,3);
+        String result2 = r.substring(2, 3);
         System.out.println(result2);
 
         System.out.println("indexOf Проверяем идекс первой определенной буквы wArzone");
         String rr = "warzone";
-        int result3 = rr.indexOf("o",1);
+        int result3 = rr.indexOf("o", 1);
         System.out.println(result3);
 
         System.out.println("lastIndexOf Проверяем идекс последней определенной буквы слова innopolis");
         String rrr = "innopolis";
-        int result4 = rrr.lastIndexOf("n",8);
+        int result4 = rrr.lastIndexOf("n", 8);
         System.out.println(result4);
 
         System.out.println("toLowerCase Проверяем преобразование в нижний регистр INNOPOLIS");
@@ -40,7 +40,7 @@ public class Homework1 {
 
         System.out.println("replace Проверяем преобразование замену строки innopolis на Denis");
         String ra = "Hello innopolis";
-        String result7 = ra.replace("innopolis","Denis");
+        String result7 = ra.replace("innopolis", "Denis");
         System.out.println(result7);
 
         System.out.println("startsWith Проверяем начало строки в скобках с указанного символа символов");
@@ -73,17 +73,8 @@ public class Homework1 {
         String result13 = er.trim();
         System.out.println(result13);
 
-
-
-
-
-
-
-
-
-
     }
-    }
+}
 
 
 
