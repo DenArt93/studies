@@ -1,4 +1,4 @@
-package ru.inno.course;
+package ru.inno.course.basics;
 
 public class Homework1 {
     // проверка строки на пустое значение. Возвращаем true или false

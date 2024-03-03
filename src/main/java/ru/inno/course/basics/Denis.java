@@ -1,4 +1,4 @@
-package ru.inno.course;
+package ru.inno.course.basics;
 
 public class Denis {
 
